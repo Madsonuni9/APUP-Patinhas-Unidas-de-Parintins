@@ -6,7 +6,7 @@
 
 ## 🌐 Sistema online
 
-🔗 **https://apup-parintins.vercel.app** ← *(substituir pela URL real após o deploy na Vercel)*
+🔗 **https://https://apup.vercel.app/**
 
 ---
 
@@ -22,10 +22,10 @@
 
 | Nome Completo | RA |
 |---|---|
-| Aluno 1 — Nome Completo | 000001 |
-| Aluno 2 — Nome Completo | 000002 |
-| Aluno 3 — Nome Completo | 000003 |
-| Aluno 4 — Nome Completo | 000004 |
+| Aluno 1 — Eduardo Alves da Silva | 426108586 |
+| Aluno 2 — Gustavo Henrique Ferreira da Silva | 426108554 |
+| Aluno 3 — Madson Hipólito de Souza | 426108700 |
+| Aluno 4 — Marcos Paulo Pinheiro da Silva | 2526102178 |
 | Aluno 5 — Nome Completo | 000005 |
 | Aluno 6 — Nome Completo | 000006 |
 
