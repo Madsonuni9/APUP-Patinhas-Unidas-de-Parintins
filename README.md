@@ -12,7 +12,7 @@
 
 ## 🎥 Vídeo de apresentação
 
-📺 **https://youtu.be/SEU-VIDEO-AQUI** ← *(substituir após publicar no YouTube)*
+📺 **https://youtu.be/MZznZDuSwvk**
 
 > Duração mínima: 5 minutos | Visibilidade: Público ou Não listado
 
